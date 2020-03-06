@@ -1,3 +1,7 @@
 <map id="openPMD::ADIOS1IOHandler" name="openPMD::ADIOS1IOHandler">
-<area shape="rect" id="node2" href="$classopen_p_m_d_1_1_abstract_i_o_handler.html" title="Interface for communicating between logical and physically persistent data. " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node2" href="$classopen_p_m_d_1_1_abstract_i_o_handler.html" title="Interface for communicating between logical and physically persistent data. " alt="" coords="53,303,249,329"/>
+<area shape="rect" id="node4" href="$classopen_p_m_d_1_1_i_o_task.html" title="Self&#45;contained description of a single IO operation. " alt="" coords="9,102,139,129"/>
+<area shape="rect" id="node5" href="$classopen_p_m_d_1_1_writable.html" title="Layer to mirror structure of logical data and persistent data in file. " alt="" coords="6,5,142,32"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="186,206,266,233"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="164,95,291,136"/>
 </map>

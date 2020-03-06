@@ -12,7 +12,6 @@
 <area shape="rect" id="node24" href="$classopen_p_m_d_1_1_container.html" title="Map&#45;like container that enforces openPMD requirements and handles IO. " alt="" coords="234,661,409,703"/>
 <area shape="rect" id="node25" href="$classopen_p_m_d_1_1_iteration.html" title="Logical compilation of data from one snapshot (e.g. " alt="" coords="254,727,389,754"/>
 <area shape="rect" id="node26" href="$classopen_p_m_d_1_1_series.html" title="Root level of the openPMD hierarchy. " alt="" coords="259,778,384,805"/>
-<area shape="rect" id="node27" href="$structopen_p_m_d_1_1test_1_1_test_helper.html" title="openPMD::test::TestHelper" alt="" coords="230,829,413,855"/>
 <area shape="rect" id="node3" href="$classopen_p_m_d_1_1_base_record.html" title="openPMD::BaseRecord\l\&lt; MeshRecordComponent \&gt;" alt="" coords="505,5,691,47"/>
 <area shape="rect" id="node4" href="$classopen_p_m_d_1_1_mesh.html" title="Container for N&#45;dimensional, homogeneous Records. " alt="" coords="816,13,936,39"/>
 <area shape="rect" id="node9" href="$classopen_p_m_d_1_1_particle_patches.html" title="openPMD::ParticlePatches" alt="" coords="508,290,688,317"/>
@@ -25,9 +24,4 @@
 <area shape="rect" id="node21" href="$classopen_p_m_d_1_1_patch_record_component.html" title="openPMD::PatchRecordComponent" alt="" coords="483,610,713,637"/>
 <area shape="rect" id="node22" href="$classopen_p_m_d_1_1_record_component.html" title="openPMD::RecordComponent" alt="" coords="499,661,697,687"/>
 <area shape="rect" id="node23" href="$classopen_p_m_d_1_1_mesh_record_component.html" title="openPMD::MeshRecordComponent" alt="" coords="761,661,991,687"/>
-<area shape="rect" id="node28" href="$structopen_p_m_d_1_1test_1_1_attributed_widget.html" title="openPMD::test::Attributed\lWidget" alt="" coords="511,712,685,753"/>
-<area shape="rect" id="node29" href="$structopen_p_m_d_1_1test_1_1_dotty.html" title="openPMD::test::Dotty" alt="" coords="523,778,673,805"/>
-<area shape="rect" id="node30" href="$structopen_p_m_d_1_1test_1_1_s.html" title="openPMD::test::S" alt="" coords="535,829,661,855"/>
-<area shape="rect" id="node31" href="$structopen_p_m_d_1_1test_1_1structure.html" title="openPMD::test::structure" alt="" coords="513,879,683,906"/>
-<area shape="rect" id="node32" href="$structopen_p_m_d_1_1test_1_1_widget.html" title="openPMD::test::Widget" alt="" coords="519,930,677,957"/>
 </map>

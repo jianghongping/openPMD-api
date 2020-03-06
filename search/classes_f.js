@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['testhelper',['TestHelper',['../structopen_p_m_d_1_1test_1_1_test_helper.html',1,'openPMD::test']]],
   ['todatatype',['ToDatatype',['../structopen_p_m_d_1_1detail_1_1_to_datatype.html',1,'openPMD::detail']]],
   ['todatatypehelper',['ToDatatypeHelper',['../structopen_p_m_d_1_1detail_1_1_to_datatype_helper.html',1,'openPMD::detail']]],
   ['todatatypehelper_3c_20bool_20_3e',['ToDatatypeHelper&lt; bool &gt;',['../structopen_p_m_d_1_1detail_1_1_to_datatype_helper_3_01bool_01_4.html',1,'openPMD::detail']]],
